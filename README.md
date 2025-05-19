@@ -23,7 +23,7 @@ sudo apt install python3 python3-pip git -y
 
 2. Projeyi klonlayın:
 ```bash
-git clone https://github.com/beycanyildiz/beycan.git
+git clone https://github.com/beycanyildiz/BeycanHackTool.git
 cd beycan
 ```
 
